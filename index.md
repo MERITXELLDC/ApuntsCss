@@ -10,4 +10,4 @@
 
 [4.Model de caixes](modelCaixes.md)
 
-[5. Layouts amb flexbox i grid](flexBoxGrid.md)
+[5. Layouts amb flexbox i grid](flexBoxgrid.md)
