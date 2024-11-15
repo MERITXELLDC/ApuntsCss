@@ -96,8 +96,8 @@ h1 {
 
 /* Estil per a una caixa amb classe 'box' */
 .box {
-    width: 100px;
-    height: 100px;
+    width: 120px;
+    height: 120px;
     background-color: lightblue;
     margin: 20px auto;
     text-align: center;
